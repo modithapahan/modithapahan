@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Library Management System project.
-- 🌱 I’m currently learning PHP | Laravel.
+- 🌱 I’m currently learning PHP | Laravel | Javascript.
 - 👯 I’m looking to collaborate on laravel projects.
 - 🤔 I’m looking for help with projects.
 - 💬 Ask me about Laravel.

@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Library Management System project.
+- 🔭 I’m currently working on E-Commerce Application.
 - 🌱 I’m currently learning python | ML | Springboot.
 - 👯 I’m looking to collaborate on laravel projects.
 - 🤔 I’m looking for help with projects.

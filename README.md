@@ -1,5 +1,10 @@
 ### Hi there 👋, I'm Moditha Pahan
 
+<div align="center">
+  <a href="/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=4000&pause=1000&center=true&random=false&width=435&lines=Tech%20Lover;Problem%20Solver;Software%20Developer;ML%20Enthusiastic;Hard Worker" alt="Typing SVG">
+  </a>
+</div>
 
 <!-- **modithapahan/modithapahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

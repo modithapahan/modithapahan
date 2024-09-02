@@ -21,7 +21,7 @@ Here are some ideas to get you started: -->
 <div>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img align="center" src="https://skillicons.dev/icons?i=javascript,html,css,java,spring,nodejs,express,docker,react,mysql,firebase,mongodb,linux" />
+      <img align="center" src="https://skillicons.dev/icons?i=javascript,html,css,java,spring,nodejs,express,docker,react,mysql,tailwind,firebase,mongodb,linux" />
     </a>
   </p>
 </div>

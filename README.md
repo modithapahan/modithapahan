@@ -45,6 +45,7 @@
     <a href="https://skillicons.dev"><img align="center" src="https://skillicons.dev/icons?i=firebase" /></a>
     <a href="https://skillicons.dev"><img align="center" src="https://skillicons.dev/icons?i=mongodb" /></a>
     <a href="https://skillicons.dev"><img align="center" src="https://skillicons.dev/icons?i=linux" /></a>
+    <a href="https://skillicons.dev"><img align="center" src="https://skillicons.dev/icons?i=redhat" /></a>
     <a href="https://skillicons.dev"><img align="center" src="https://skillicons.dev/icons?i=gcp" /></a>
     <a href="https://skillicons.dev"><img align="center" src="https://skillicons.dev/icons?i=aws" /></a>
 <!--     <a href="https://skillicons.dev">

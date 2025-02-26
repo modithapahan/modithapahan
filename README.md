@@ -19,14 +19,10 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<!-- <a href="https://twitter.com/_azhar_ghafoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_azhar_ghafoor" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/modithapahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azhar-ghafoor" height="30" width="40" /></a>
-<a href="https://medium.com/@modithapahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ghafoorazhar" height="30" width="40" /></a>
-<a href="https://github.com/modithapahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="@AzharGhafoor" height="30" width="40" /></a>
-<!-- <a href="https://scholar.google.com/citations?user=UYIGXywAAAAJ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="@AzharGhafoor" height="30" width="40" /></a> 
-<a href="https://www.researchgate.net/profile/Azhar-Ghafoor-3" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="@Azhar-Ghafoor-3" height="30" width="40" /></a> 
-<a href="https://www.fiverr.com/azharghafoor39" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/129_Fiverr-512.png" alt="@Aazharghafoor39" height="30" width="40" /></a> 
-<a href="https://azharghafoor.netlify.app/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" alt="@azharghafoor" height="40" width="40" /></a>  -->
+<!-- blank -->
+<a href="https://linkedin.com/in/modithapahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="modithapahan" height="30" width="40" /></a>
+<a href="https://medium.com/@modithapahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@modithapahan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/modithapahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="modithapahan" height="30" width="40" /></a>
 
 <br />
 <br />

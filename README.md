@@ -3,7 +3,7 @@
 
 - 🎓 I am an undergraduate at SLIIT in Information Technology specialization.
 - 📈 I am learning about Problem Solving and Big Data (ML/DL).
-- 📝 I regularly write articles on [https://medium.com/@modithapahan](https://medium.com/@modithapahan)
+- 📝 I regularly write articles on <a href="https://medium.com/@modithapahan" target="_blank">medium.com/modithapahan</a>
 - 📫 How to reach me **modithapahan0@gmail.com**
 
 🔍 connect with me on:
